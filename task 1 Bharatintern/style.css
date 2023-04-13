@@ -1,0 +1,44 @@
+
+body {
+
+background-image: url('https://cdn.hswstatic.com/gif/celsius-convert.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+img{
+	
+	border: 50px snow;
+}
+.container {
+	margin: 50px auto;
+	background-image: radial-gradient(rgb(229, 255, 0),rgb(255, 8, 0)
+	);
+	height: 600px;
+	max-width: 400px;
+	text-align: center;
+	border: solid rgb(41, 18, 245) 3px;
+	border-radius: 15px;
+}
+
+
+input[type="number"] {
+	padding: 10px;
+	font-size: 20px;
+	border-radius: 5px;
+	border: rgb(40, 182, 35);
+	margin: 10px;
+	width: 40%;
+}
+
+h1 {
+    color: rgb(0, 195, 255);
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+label {
+    color: rgb(12, 12, 12);
+	font-size: 24px;
+	margin-right: 10px;
+}
